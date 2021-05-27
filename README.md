@@ -1,1 +1,1 @@
-### Basic web scraping with Scrapy in Python
+### Basic web scraping practice with Scrapy in Python
